@@ -1,1 +1,3 @@
-# tpmp-gr12b-lab4-africans
+
+## Additional
+[Репозиторий с проектом](https://github.com/tyazheelo/lab4)
